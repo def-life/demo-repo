@@ -1,0 +1,19 @@
+    Name: Isabella "Izzy" Turner
+        Background: A brilliant computer programmer with a mysterious past. She left a prestigious tech company under unclear circumstances and now works freelance on the edge of the digital underworld.
+        Personality: Izzy is introverted, highly analytical, and fiercely independent. She harbors a deep sense of justice and uses her skills to expose corruption and bring wrongdoers to light.
+
+    Name: Rafael "Rafe" Rodriguez
+        Background: A former special forces operative turned private investigator. Rafe left the military after a traumatic incident and now uses his skills to uncover hidden truths in the city's shadows.
+        Personality: Rafe is stoic, disciplined, and carries the weight of his past. Despite his tough exterior, he has a soft spot for helping those in need and is haunted by a personal quest for redemption.
+
+    Name: Lily Chen
+        Background: A talented young artist with a passion for the surreal and the supernatural. Lily grew up in a family with a rich cultural heritage, blending traditional values with a modern artistic perspective.
+        Personality: Lily is creative, free-spirited, and often finds inspiration in the unexplained. She is open-minded and curious, leading her to explore the mystical elements woven into the fabric of her world.
+
+    Name: Dr. Theodore "Ted" Hawthorne
+        Background: An eccentric scientist with a penchant for experimenting with the unknown. Dr. Hawthorne is a brilliant inventor and researcher, specializing in unorthodox technologies and the intersection of science and the supernatural.
+        Personality: Ted is quirky, absent-minded, and utterly passionate about his work. His boundless curiosity sometimes leads him into dangerous territory, but he approaches challenges with a childlike enthusiasm and determination.
+
+    Name: Olivia "Liv" Harper
+        Background: A charismatic and resourceful journalist with a knack for uncovering hidden stories. Liv is known for her fearless pursuit of the truth, often putting herself in precarious situations to expose corruption and injustice.
+        Personality: Liv is outgoing, quick-witted, and carries a sense of moral responsibility. Her investigative skills are matched only by her ability to charm and persuade, making her a force to be reckoned with in the world of media.
