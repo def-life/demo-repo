@@ -37,3 +37,7 @@
     Name: Olivia "Liv" Harper
         Background: A charismatic and resourceful journalist with a knack for uncovering hidden stories. Liv is known for her fearless pursuit of the truth, often putting herself in precarious situations to expose corruption and injustice.
         Personality: Liv is outgoing, quick-witted, and carries a sense of moral responsibility. Her investigative skills are matched only by her ability to charm and persuade, making her a force to be reckoned with in the world of media.
+
+    Name: Johnny "Liv" Harper
+            Background: A charismatic and resourceful journalist with a knack for uncovering hidden stories. Liv is known for her fearless pursuit of the truth, often putting herself in precarious situations to expose corruption and injustice.
+            Personality: Liv is outgoing, quick-witted, and carries a sense of moral responsibility. Her investigative skills are matched only by her ability to charm and persuade, making her a force to be reckoned with in the world of media.
