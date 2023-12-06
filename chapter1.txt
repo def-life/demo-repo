@@ -2,7 +2,7 @@ Chapter One: Shadows of the Past
 
 The city of Eldoria lay beneath a veil of perpetual twilight, a metropolis where the neon glow of technology clashed with the ageless shadows that lurked in its corners. In the heart of this enigmatic urban landscape, four disparate lives were destined to intertwine, their stories converging like rivers meeting at a mysterious confluence.
 
-Isabella "Izzy" Turner navigated the digital maze of the city's underbelly. Clad in the anonymity of a hoodie, she slipped through virtual backdoors, her fingers dancing across the keyboard in a rhythm known only to her. Mysterious and reclusive, her past at the prestigious tech firm still cast a shadow on her present, but it was a shadow she embraced.
+izabella "Izzy" Turner navigated the digital maze of the city's underbelly. Clad in the anonymity of a hoodie, she slipped through virtual backdoors, her fingers dancing across the keyboard in a rhythm known only to her. Mysterious and reclusive, her past at the prestigious tech firm still cast a shadow on her present, but it was a shadow she embraced.
 
 On the rain-soaked streets, Rafael "Rafe" Rodriguez moved with the grace of a predator. A former special forces operative haunted by the ghosts of his past, he now prowled as a private investigator seeking the truth in the labyrinth of city secrets. Rafe's stoic demeanor masked a storm of emotions, and his quest for redemption was etched in the lines of his weathered face.
 
@@ -17,7 +17,7 @@ As these characters tread their respective paths, little did they know that the 
 The first chapter had begun, setting the stage for a tale where the lines between technology and mysticism blurred, and the city's secrets beckoned the curious and the courageous alike.
 
 
-    Name: Isabella "Izzy" Turner
+    Name: izabella "Izzy" Turner
         Background: A brilliant computer programmer with a mysterious past. She left a prestigious tech company under unclear circumstances and now works freelance on the edge of the digital underworld.
         Personality: Izzy is introverted, highly analytical, and fiercely independent. She harbors a deep sense of justice and uses her skills to expose corruption and bring wrongdoers to light.
 
