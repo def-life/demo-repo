@@ -1,3 +1,8 @@
+    ===========
+    Characters
+    ===========
+    
+    
     Name: izabella "Izzy" Turner
         Background: A brilliant computer programmer with a mysterious past. She left a prestigious tech company under unclear circumstances and now works freelance on the edge of the digital underworld.
         Personality: Izzy is introverted, highly analytical, and fiercely independent. She harbors a deep sense of justice and uses her skills to expose corruption and bring wrongdoers to light.
